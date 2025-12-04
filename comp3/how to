@@ -1,0 +1,1 @@
+La entrega final es un ensemble de todos los modelos. Cada modelo crea un archivo prediccion_ensamble que hay que ponerlos en un directorio y correr ensamble_final para obtener la salida definitiva
